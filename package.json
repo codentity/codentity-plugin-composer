@@ -1,0 +1,15 @@
+{
+  "name": "codentity-plugin-composer",
+  "version": "0.1.0",
+  "description": "Codentity plugin for finding Composer dependencies",
+  "main": "lib/codentity-plugin-composer.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jack Stevens <jack@applyr.com>",
+  "license": "ISC",
+  "dependencies": {
+    "codentity-plugin": "github:codentity/codentity-plugin",
+    "json-package-finder": "github:codentity/json-package-finder",
+    "minimatch": "^3.0.0"
+  }
+}
